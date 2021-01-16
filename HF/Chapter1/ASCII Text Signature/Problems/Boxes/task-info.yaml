@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main(args: Array<String>) {
+        // write your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/4595
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/4595">JetBrains
+    Academy</a></html>
+  time: Sat, 16 Jan 2021 09:42:32 UTC
+record: -1
